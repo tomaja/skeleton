@@ -18,7 +18,7 @@
   - **CacheSystem** - Manages loading and caching resources such as sf::Texture, sf::SoundBuffer etc.
   - **AudioProvider** - Uses CacheSystem to play music and sounds (defalut implementation is SFMLSoundProvider)
   - **StateManager** - Manages State classes. Lets push new States and updates the current state
-  - **ButtonManager** - Manages laying out the buttons, put's them in groups which results in nicely handled keyboard navigation
+  - **ButtonManager** - Manages laying out the buttons, puts them in groups which results in nicely handled keyboard navigation
   - **bunch** of other Manager classes
 - **Util**
   - **Animation** - (*work in progress*) Handles animating of GUI components
